@@ -11,5 +11,4 @@
 - Detection of potential breeding grounds.
 - Eradicating the breeding grounds.
 ###### Modern day computer vision and DL techniques and algorithms can be exploited to optimistically detect and eradicate mosquitoes larvae.
-#### Block Diagram of the design flow
-![](./diagram.png)
+
